@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<parametros>
+  <Usuario></Usuario>
+  <Token></Token>
+  <TokenSecret></TokenSecret>  
+  <Senha>NaoUtilizado</Senha>
+  <Intervalo>30</Intervalo>
+  <Mensagens>1</Mensagens>
+  <EnderecoIp>10.1.1.9</EnderecoIp>
+  <MascaraIp>255.0.0.0</MascaraIp>
+  <GatewayIp>10.1.1.1</GatewayIp>
+  <Dns>10.1.1.1</Dns>
+  <EnderecoMacGateway></EnderecoMacGateway>
+</parametros>

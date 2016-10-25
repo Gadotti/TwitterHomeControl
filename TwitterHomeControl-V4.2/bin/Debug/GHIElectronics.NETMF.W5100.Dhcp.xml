@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GHIElectronics.NETMF.W5100.Dhcp</name>
+    </assembly>
+    <members>
+        <member name="T:GHIElectronics.NETMF.Net.NetworkInformation.Dhcp">
+            <summary>
+            Provides Dhcp client service with W5100 chipset Ethernet interface.<br/>
+            <strong>IMPORTANT: Use this class only with WIZnet W5100 Ethernet TCP/IP Chip.</strong>
+            </summary>
+            <remarks>
+            With this class, your applications can lease IP address and other networking settings through Dhcp service. 
+            </remarks>
+        </member>
+        <member name="M:GHIElectronics.NETMF.Net.NetworkInformation.Dhcp.EnableDhcp(System.Byte[],System.String)">
+            <summary>
+            Enables the Dynamic Host Configuration Protocol (DHCP) for service with this network interface. 
+            </summary>
+            <param name="MAC">Specifies the physical of the Ethernet interface. </param>
+            <param name="hostname">Specifies the hostname for the DHCP server. </param>
+        </member>
+        <member name="M:GHIElectronics.NETMF.Net.NetworkInformation.Dhcp.RenewDhcpLease">
+            <summary>
+            Renews a DHCP lease, which renews the IP address on a DHCP-enabled network interface.  
+            </summary>
+        </member>
+        <member name="M:GHIElectronics.NETMF.Net.NetworkInformation.Dhcp.ReleaseDhcpLease">
+            <summary>
+            Releases the DHCP lease, which releases the IP address bound to a DHCP-enabled network interface. 
+            </summary>
+        </member>
+    </members>
+</doc>

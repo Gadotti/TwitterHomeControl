@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<equipamentos>
+  <equipamento>
+    <id>1</id>
+	<descricao>Primeira tomada</descricao>
+    <comodosid>1</comodosid>
+  </equipamento>
+  <equipamento>
+    <id>2</id>
+	<descricao>Segunda tomada</descricao>
+    <comodosid>2</comodosid>
+  </equipamento>
+  <equipamento>
+    <id>3</id>
+	<descricao>Terceira tomada</descricao>
+    <comodosid>3</comodosid>
+  </equipamento>
+  <equipamento>
+    <id>4</id>
+	<descricao>Quarta tomada</descricao>
+    <comodosid>4</comodosid>
+  </equipamento>
+  <equipamento>
+    <id>5</id>
+	<descricao>Quinta tomada</descricao>
+    <comodosid>5</comodosid>
+  </equipamento>
+</equipamentos>
